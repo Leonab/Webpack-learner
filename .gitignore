@@ -10,6 +10,7 @@ Thumbs.db
 .nodemonignore
 .sass-cache/
 node_modules/
+First demo
 app/tests/coverage/
 .bower-*/
 .idea/
