@@ -10,7 +10,6 @@ Thumbs.db
 .nodemonignore
 .sass-cache/
 node_modules/
-First demo
 app/tests/coverage/
 .bower-*/
 .idea/
@@ -19,6 +18,7 @@ coverage/
 # MEAN.js app and assets
 # ======================
 uploads
+First demo
 #modules/users/client/img/profile/uploads
 *.pem
 
